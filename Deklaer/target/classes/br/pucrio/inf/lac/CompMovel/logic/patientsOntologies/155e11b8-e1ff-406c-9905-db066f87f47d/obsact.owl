@@ -1,0 +1,811 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://obsact/vocabulary"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://obsact/vocabulary">
+    <Prefix name="" IRI=""/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#ActRule"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ActuationEffect"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Actuator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EqualTo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GreaterOrEqualThan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GreaterThan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LessOrEqualThan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LessThan"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LogicalCondition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Notification"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ObsActRule"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ObsRule"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sensor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SensorObs"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_actRule"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_actuationEffect"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_actuator"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_obsActRule"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_obsRule"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_sensor"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_sensorObs"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_id"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_logicalCondition"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_mhubIdDestination"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_name"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_notificationText"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_numberOfValues"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_sensorName"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_unityOfMeasurement"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_valueOneRestriction"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#isAbout"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ActRuleBPGOET90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ActRuleBPLT90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ActRuleRRGOET30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ActRuleRRLT30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Allan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#NotificationBPGOET90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#NotificationBPLT90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#NotificationRRGOET30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#NotificationRRLT30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ObsActRuleBPGOET90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ObsActRuleBPLT90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ObsActRuleRRGOET30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ObsActRuleRRLT30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ObsRuleBPGOET90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ObsRuleBPLT90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ObsRuleRRGOET30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ObsRuleRRLT30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SensorObsBPGOET90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SensorObsBPLT90"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SensorObsRRGOET30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SensorObsRRLT30"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SensorObsTempGT38"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ZephyrBloodPressure"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#ZephyrRespiratory"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#EqualTo"/>
+        <Class IRI="#LogicalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GreaterOrEqualThan"/>
+        <Class IRI="#LogicalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GreaterThan"/>
+        <Class IRI="#LogicalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LessOrEqualThan"/>
+        <Class IRI="#LogicalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LessThan"/>
+        <Class IRI="#LogicalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Notification"/>
+        <Class IRI="#ActuationEffect"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#ActRule"/>
+        <NamedIndividual IRI="#ActRuleBPGOET90"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ActRule"/>
+        <NamedIndividual IRI="#ActRuleBPLT90"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ActRule"/>
+        <NamedIndividual IRI="#ActRuleRRGOET30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ActRule"/>
+        <NamedIndividual IRI="#ActRuleRRLT30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Entity"/>
+        <NamedIndividual IRI="#Allan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Notification"/>
+        <NamedIndividual IRI="#NotificationBPGOET90"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Notification"/>
+        <NamedIndividual IRI="#NotificationBPLT90"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Notification"/>
+        <NamedIndividual IRI="#NotificationRRGOET30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Notification"/>
+        <NamedIndividual IRI="#NotificationRRLT30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ObsActRule"/>
+        <NamedIndividual IRI="#ObsActRuleBPGOET90"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ObsActRule"/>
+        <NamedIndividual IRI="#ObsActRuleBPLT90"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ObsActRule"/>
+        <NamedIndividual IRI="#ObsActRuleRRGOET30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ObsActRule"/>
+        <NamedIndividual IRI="#ObsActRuleRRLT30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ObsRule"/>
+        <NamedIndividual IRI="#ObsRuleBPGOET90"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ObsRule"/>
+        <NamedIndividual IRI="#ObsRuleBPLT90"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ObsRule"/>
+        <NamedIndividual IRI="#ObsRuleRRGOET30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ObsRule"/>
+        <NamedIndividual IRI="#ObsRuleRRLT30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SensorObs"/>
+        <NamedIndividual IRI="#SensorObsBPGOET90"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SensorObs"/>
+        <NamedIndividual IRI="#SensorObsBPLT90"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SensorObs"/>
+        <NamedIndividual IRI="#SensorObsRRGOET30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SensorObs"/>
+        <NamedIndividual IRI="#SensorObsRRLT30"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Sensor"/>
+        <NamedIndividual IRI="#ZephyrBloodPressure"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Sensor"/>
+        <NamedIndividual IRI="#ZephyrRespiratory"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actuationEffect"/>
+        <NamedIndividual IRI="#ActRuleBPGOET90"/>
+        <NamedIndividual IRI="#NotificationBPGOET90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actuationEffect"/>
+        <NamedIndividual IRI="#ActRuleBPLT90"/>
+        <NamedIndividual IRI="#NotificationBPLT90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actuationEffect"/>
+        <NamedIndividual IRI="#ActRuleRRGOET30"/>
+        <NamedIndividual IRI="#NotificationRRGOET30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actuationEffect"/>
+        <NamedIndividual IRI="#ActRuleRRLT30"/>
+        <NamedIndividual IRI="#NotificationRRLT30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsActRule"/>
+        <NamedIndividual IRI="#Allan"/>
+        <NamedIndividual IRI="#ObsActRuleBPGOET90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsActRule"/>
+        <NamedIndividual IRI="#Allan"/>
+        <NamedIndividual IRI="#ObsActRuleBPLT90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsActRule"/>
+        <NamedIndividual IRI="#Allan"/>
+        <NamedIndividual IRI="#ObsActRuleRRGOET30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsActRule"/>
+        <NamedIndividual IRI="#Allan"/>
+        <NamedIndividual IRI="#ObsActRuleRRLT30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <NamedIndividual IRI="#Allan"/>
+        <NamedIndividual IRI="#ObsRuleBPGOET90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <NamedIndividual IRI="#Allan"/>
+        <NamedIndividual IRI="#ObsRuleBPLT90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <NamedIndividual IRI="#Allan"/>
+        <NamedIndividual IRI="#ObsRuleRRGOET30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <NamedIndividual IRI="#Allan"/>
+        <NamedIndividual IRI="#ObsRuleRRLT30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actRule"/>
+        <NamedIndividual IRI="#ObsActRuleBPGOET90"/>
+        <NamedIndividual IRI="#ActRuleBPGOET90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <NamedIndividual IRI="#ObsActRuleBPGOET90"/>
+        <NamedIndividual IRI="#ObsRuleBPGOET90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actRule"/>
+        <NamedIndividual IRI="#ObsActRuleBPLT90"/>
+        <NamedIndividual IRI="#ActRuleBPLT90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <NamedIndividual IRI="#ObsActRuleBPLT90"/>
+        <NamedIndividual IRI="#ObsRuleBPLT90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actRule"/>
+        <NamedIndividual IRI="#ObsActRuleRRGOET30"/>
+        <NamedIndividual IRI="#ActRuleRRGOET30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <NamedIndividual IRI="#ObsActRuleRRGOET30"/>
+        <NamedIndividual IRI="#ObsRuleRRGOET30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actRule"/>
+        <NamedIndividual IRI="#ObsActRuleRRLT30"/>
+        <NamedIndividual IRI="#ActRuleRRLT30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <NamedIndividual IRI="#ObsActRuleRRLT30"/>
+        <NamedIndividual IRI="#ObsRuleRRLT30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actRule"/>
+        <NamedIndividual IRI="#ObsRuleBPGOET90"/>
+        <NamedIndividual IRI="#ActRuleBPGOET90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_sensorObs"/>
+        <NamedIndividual IRI="#ObsRuleBPGOET90"/>
+        <NamedIndividual IRI="#SensorObsBPGOET90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actRule"/>
+        <NamedIndividual IRI="#ObsRuleBPLT90"/>
+        <NamedIndividual IRI="#ActRuleBPLT90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_obsActRule"/>
+        <NamedIndividual IRI="#ObsRuleBPLT90"/>
+        <NamedIndividual IRI="#ObsActRuleBPLT90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_sensorObs"/>
+        <NamedIndividual IRI="#ObsRuleBPLT90"/>
+        <NamedIndividual IRI="#SensorObsBPLT90"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actRule"/>
+        <NamedIndividual IRI="#ObsRuleRRGOET30"/>
+        <NamedIndividual IRI="#ActRuleRRGOET30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_sensorObs"/>
+        <NamedIndividual IRI="#ObsRuleRRGOET30"/>
+        <NamedIndividual IRI="#SensorObsRRGOET30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_actRule"/>
+        <NamedIndividual IRI="#ObsRuleRRLT30"/>
+        <NamedIndividual IRI="#ActRuleRRLT30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_sensorObs"/>
+        <NamedIndividual IRI="#ObsRuleRRLT30"/>
+        <NamedIndividual IRI="#SensorObsRRLT30"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_sensor"/>
+        <NamedIndividual IRI="#SensorObsBPGOET90"/>
+        <NamedIndividual IRI="#ZephyrBloodPressure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_sensor"/>
+        <NamedIndividual IRI="#SensorObsBPLT90"/>
+        <NamedIndividual IRI="#ZephyrBloodPressure"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_sensor"/>
+        <NamedIndividual IRI="#SensorObsRRGOET30"/>
+        <NamedIndividual IRI="#ZephyrRespiratory"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_sensor"/>
+        <NamedIndividual IRI="#SensorObsRRLT30"/>
+        <NamedIndividual IRI="#ZephyrRespiratory"/>
+    </ObjectPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ActRuleBPGOET90"/>
+        <Literal>ActRuleBPGOET90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ActRuleBPLT90"/>
+        <Literal>ActRuleBPLT90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ActRuleRRGOET30"/>
+        <Literal>ActRuleRRGOET30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ActRuleRRLT30"/>
+        <Literal>ActRuleRRLT30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#Allan"/>
+        <Literal>155e11b8-e1ff-406c-9905-db066f87f47d</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_name"/>
+        <NamedIndividual IRI="#Allan"/>
+        <Literal>Allan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_mhubIdDestination"/>
+        <NamedIndividual IRI="#NotificationBPGOET90"/>
+        <Literal>788b2b22-baa6-4c61-b1bb-01cff1f5f878</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_notificationText"/>
+        <NamedIndividual IRI="#NotificationBPGOET90"/>
+        <Literal>0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_mhubIdDestination"/>
+        <NamedIndividual IRI="#NotificationBPLT90"/>
+        <Literal>788b2b22-baa6-4c61-b1bb-01cff1f5f878</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_notificationText"/>
+        <NamedIndividual IRI="#NotificationBPLT90"/>
+        <Literal>1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_mhubIdDestination"/>
+        <NamedIndividual IRI="#NotificationRRGOET30"/>
+        <Literal>788b2b22-baa6-4c61-b1bb-01cff1f5f878</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_notificationText"/>
+        <NamedIndividual IRI="#NotificationRRGOET30"/>
+        <Literal>1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_mhubIdDestination"/>
+        <NamedIndividual IRI="#NotificationRRLT30"/>
+        <Literal>788b2b22-baa6-4c61-b1bb-01cff1f5f878</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_notificationText"/>
+        <NamedIndividual IRI="#NotificationRRLT30"/>
+        <Literal>0</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ObsActRuleBPGOET90"/>
+        <Literal>ObsActRuleBPGOET90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ObsActRuleBPLT90"/>
+        <Literal>ObsActRuleBPLT90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ObsActRuleRRGOET30"/>
+        <Literal>ObsActRuleRRGOET30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ObsActRuleRRLT30"/>
+        <Literal>ObsActRuleRRLT30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ObsRuleBPGOET90"/>
+        <Literal>ObsRuleBPGOET90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ObsRuleBPLT90"/>
+        <Literal>ObsRuleBPLT90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ObsRuleRRGOET30"/>
+        <Literal>ObsRuleRRGOET30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_id"/>
+        <NamedIndividual IRI="#ObsRuleRRLT30"/>
+        <Literal>ObsRuleRRLT30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_logicalCondition"/>
+        <NamedIndividual IRI="#SensorObsBPGOET90"/>
+        <Literal>GreaterOrEqualThan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_name"/>
+        <NamedIndividual IRI="#SensorObsBPGOET90"/>
+        <Literal>BPGOET90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_numberOfValues"/>
+        <NamedIndividual IRI="#SensorObsBPGOET90"/>
+        <Literal>90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_unityOfMeasurement"/>
+        <NamedIndividual IRI="#SensorObsBPGOET90"/>
+        <Literal>mmHg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_valueOneRestriction"/>
+        <NamedIndividual IRI="#SensorObsBPGOET90"/>
+        <Literal>90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAbout"/>
+        <NamedIndividual IRI="#SensorObsBPGOET90"/>
+        <Literal>It is about blood pressure</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_logicalCondition"/>
+        <NamedIndividual IRI="#SensorObsBPLT90"/>
+        <Literal>LessThan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_name"/>
+        <NamedIndividual IRI="#SensorObsBPLT90"/>
+        <Literal>BPLT90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_numberOfValues"/>
+        <NamedIndividual IRI="#SensorObsBPLT90"/>
+        <Literal>1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_unityOfMeasurement"/>
+        <NamedIndividual IRI="#SensorObsBPLT90"/>
+        <Literal>mmHg</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_valueOneRestriction"/>
+        <NamedIndividual IRI="#SensorObsBPLT90"/>
+        <Literal>90</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAbout"/>
+        <NamedIndividual IRI="#SensorObsBPLT90"/>
+        <Literal>It is about blood pressure</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_logicalCondition"/>
+        <NamedIndividual IRI="#SensorObsRRGOET30"/>
+        <Literal>GreaterOrEqualThan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_name"/>
+        <NamedIndividual IRI="#SensorObsRRGOET30"/>
+        <Literal>RRGOET30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_numberOfValues"/>
+        <NamedIndividual IRI="#SensorObsRRGOET30"/>
+        <Literal>1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_unityOfMeasurement"/>
+        <NamedIndividual IRI="#SensorObsRRGOET30"/>
+        <Literal>bpm</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_valueOneRestriction"/>
+        <NamedIndividual IRI="#SensorObsRRGOET30"/>
+        <Literal>30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAbout"/>
+        <NamedIndividual IRI="#SensorObsRRGOET30"/>
+        <Literal>It is about respiratory rate</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_logicalCondition"/>
+        <NamedIndividual IRI="#SensorObsRRLT30"/>
+        <Literal>LessThan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_name"/>
+        <NamedIndividual IRI="#SensorObsRRLT30"/>
+        <Literal>RRLT30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_numberOfValues"/>
+        <NamedIndividual IRI="#SensorObsRRLT30"/>
+        <Literal>1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_unityOfMeasurement"/>
+        <NamedIndividual IRI="#SensorObsRRLT30"/>
+        <Literal>bpm</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_valueOneRestriction"/>
+        <NamedIndividual IRI="#SensorObsRRLT30"/>
+        <Literal>30</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAbout"/>
+        <NamedIndividual IRI="#SensorObsRRLT30"/>
+        <Literal>It is about respiratory rate</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_logicalCondition"/>
+        <NamedIndividual IRI="#SensorObsTempGT38"/>
+        <Literal>GreaterThan</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_name"/>
+        <NamedIndividual IRI="#SensorObsTempGT38"/>
+        <Literal>TempGT38</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_numberOfValues"/>
+        <NamedIndividual IRI="#SensorObsTempGT38"/>
+        <Literal>1</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_unityOfMeasurement"/>
+        <NamedIndividual IRI="#SensorObsTempGT38"/>
+        <Literal>Celsius</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_valueOneRestriction"/>
+        <NamedIndividual IRI="#SensorObsTempGT38"/>
+        <Literal>38</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAbout"/>
+        <NamedIndividual IRI="#SensorObsTempGT38"/>
+        <Literal>It is about tempertature</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_sensorName"/>
+        <NamedIndividual IRI="#ZephyrBloodPressure"/>
+        <Literal>zephyrbloodpressure</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#has_sensorName"/>
+        <NamedIndividual IRI="#ZephyrRespiratory"/>
+        <Literal>zephyrrespiratory</Literal>
+    </DataPropertyAssertion>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_actRule"/>
+        <Class IRI="#Entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_actRule"/>
+        <Class IRI="#ObsActRule"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_actRule"/>
+        <Class IRI="#ObsRule"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_actuationEffect"/>
+        <Class IRI="#ActRule"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_actuator"/>
+        <Class IRI="#Entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_obsActRule"/>
+        <Class IRI="#Entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <Class IRI="#Entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <Class IRI="#ObsActRule"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_sensor"/>
+        <Class IRI="#Entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_sensor"/>
+        <Class IRI="#SensorObs"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_sensorObs"/>
+        <Class IRI="#ObsRule"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_actRule"/>
+        <Class IRI="#ActRule"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_actuationEffect"/>
+        <Class IRI="#ActuationEffect"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_actuator"/>
+        <Class IRI="#Actuator"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_obsActRule"/>
+        <Class IRI="#ObsActRule"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_obsRule"/>
+        <Class IRI="#ObsRule"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_sensor"/>
+        <Class IRI="#Sensor"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_sensorObs"/>
+        <Class IRI="#SensorObs"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.6.2018-09-06T00:27:41Z) https://github.com/owlcs/owlapi -->
+

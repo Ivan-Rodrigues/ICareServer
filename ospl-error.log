@@ -1,0 +1,3109 @@
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:30-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131950.954379700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:30-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131950.954878900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:31-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131951.564553500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:31-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131951.564508300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.286131500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.286467700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.286553000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.286719600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.286767900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.304963400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.422012900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.424644900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.719554800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.719816400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.720157300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.720410200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.720507300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.720643500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.720814700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.720897000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.721101100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.721314900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.721510200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.721664500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.721838200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.721993500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.722150800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.722289000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.722438600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.722609800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.722828300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.732393900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.820514400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.820692300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.820822800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.820966300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.821324100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.821461300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.821580600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.821708100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:32-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131952.920410400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.111845900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.112172900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.112415000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.112382100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.120153500/0
+
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.427947800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.428319400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.428669000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.428704500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.428876100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.428938300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.429150700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.429324900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.429508400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.429590200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.429718200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.429833800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.430049200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.430272300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.430482100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.430724200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.430935500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.827685400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.828176900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.828394300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.828563500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.828749000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.828935100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.829135600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.829351500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.719555800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.831166700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.831488000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.835131600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.835207100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.835480100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.842882000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.846891600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.923514800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:33-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131953.923860200/0
+
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.087077600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.108010000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.111367800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.111574500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.111713800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.111834600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.111919400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112011900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112094200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112181100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112279800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112418500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112460200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112601000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112654000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112809200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112845700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.112966000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.113016400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.113147500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.113276000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.113390100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.113502700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.113608600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.113716500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.113820900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.113924200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.114029600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.114135000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.114238300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.114341600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.114445500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.114584300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.114722100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.114842400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.114951800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.118947100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.175163800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.182970700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.202705800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.214756400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.214884900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.215057600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.215115200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.215276100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.215397900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.215467800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.215604600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.215644200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.215792200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.215813300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.215963400/0
+
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.216157200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.216297500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.216524200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.216710800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.216855800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.217014100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.217155500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.278560500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.315238300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.315199800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.315451700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.315472800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.315628500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.315728200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.315775500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.315911800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.315909200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.316050600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.316097800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.316317300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.316442800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.316560500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.316678700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.430616300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.498303000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.498531200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.498654600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.498766600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.498880800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.498991800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.499098700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.499201500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.499304800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.499411800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.499517200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.499621500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.499737200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.499840500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.499943800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.500061500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.500352500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.500420300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.500600300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.500738000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.500906600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.501013600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.501118400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.501222300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.501325600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.501555400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.501757400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.510284600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.514131300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.518113700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.518071600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.518345600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.518401100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.518526000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.518593800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.518710500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.518790200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.518891000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.518932600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.519078600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.519259000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.519275500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.519459500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.519643500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.519652800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.519833700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.519957100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.520062500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.520167400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.520279900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.520384300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.520490200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.520596100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.634827100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.722767200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.830285600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.902417900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.914765600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.918702200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.918733100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.918997300/0
+
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919191100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919200400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919345800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919354600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919500000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919521100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919642400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919657300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919784300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919799200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919929800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.919943200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920070700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920215600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920216600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920357500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920362600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920487000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920500400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920623800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920632000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920767200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.920897800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.921008300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.921121400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.921232400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.921346000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.921449300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.921558300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.921661700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.921765500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.921877000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.921981900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:34-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131954.922091300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.090264800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.122231900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.186157800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.430913300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.499092100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.499320800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.499445800/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.499568100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.499686300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.499799900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.499909400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.638449100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.702612000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.718542700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.722536300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.722779400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.722800500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.722978400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.723137700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.723334600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.723483200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.723626600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.723771000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.723929400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.724100600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.724243500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.724400200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.724541100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.724688100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.724835100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.724976000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.725114300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.725251000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.725378500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.725507000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.725634000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.725761000/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.725892600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.726022600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.726159300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.726284900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.726305400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.726492500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.726612300/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.726719200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.726829200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.726933100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.727035400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:35-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131955.834209400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.093818500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.125839600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.190133600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.238385900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.238678900/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.433833200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.501269100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.528714100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.528900200/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.529073400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.705032200/0
+
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.751238100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.751348100/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.751473500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.751545500/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.751661700/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.751724400/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <13136>
+Thread      : tev 16028
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.751896600/0
+========================================================================================
+Report      : ERROR
+Date        : 2018-12-06T18:32:36-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <5000>
+Thread      : tev 21616
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1544131956.751840600/0
+========================================================================================
+Report      : API_INFO
+Date        : 2018-12-06T22:08:03-0300
+Description : The number of samples '5000' has surpassed the warning level of '5000' samples.
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <18764>
+Thread      : recv 5820
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/v_checkMaxSamplesWarningLevel/v_kernel.c/1940/769/1544144883.855664000/0
+========================================================================================
+Report      : API_INFO
+Date        : 2018-12-06T22:08:03-0300
+Description : The number of samples per instance '5000' has surpassed the warning level of '5000' samples per instance.
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <18764>
+Thread      : recv 5820
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/v_checkMaxSamplesPerInstanceWarningLevel/v_kernel.c/1957/769/1544144883.894488100/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:46-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568226.748308300/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:46-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568226.909010600/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:46-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568226.979460000/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:47-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568227.169822900/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:47-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568227.540660800/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:47-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568227.691103500/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:47-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568227.798128000/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.003396000/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.403824600/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.540634000/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.641120800/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.741708800/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.952123500/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.967947700/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.968467900/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.968605700/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.968738300/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:48-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568228.968855000/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:49-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568229.082674800/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:49-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568229.183334400/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:49-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568229.361797300/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:49-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568229.393166100/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:49-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568229.543879300/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:49-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568229.653080900/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:49-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568229.762551200/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:49-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568229.793734400/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:49-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568229.965575300/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:50-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568230.380130100/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:50-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568230.545195700/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:50-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568230.607601800/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:50-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568230.654483200/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:50-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568230.763357800/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:50-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568230.966960700/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:51-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568231.380951600/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:51-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568231.553304500/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:51-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568231.662223300/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:51-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568231.771702500/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:51-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568231.974992900/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:52-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568232.208233100/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:52-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568232.378177700/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:52-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568232.540224900/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:52-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568232.640241200/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:52-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568232.740317300/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:52-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568232.940451300/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:53-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568233.353206900/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:53-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568233.540760400/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:53-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568233.650024800/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:53-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568233.759333300/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:53-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568233.962452000/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:54-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568234.371660000/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:54-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568234.543359000/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:54-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568234.652881900/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:54-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568234.762220700/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:54-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568234.965310100/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:55-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568235.380051900/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:55-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568235.411346200/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:55-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568235.552305700/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:55-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568235.661263100/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:55-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568235.770504700/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:55-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568235.973704700/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:56-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568236.387489800/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:56-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568236.543411400/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:56-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568236.653136900/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:56-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : tev 51860
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568236.762469500/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:56-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568236.886454300/0
+========================================================================================
+Report      : ERROR
+Date        : 2019-01-15T13:03:56-0300
+Description : ddsi_udp_conn_write failed with error code 10051
+Node        : DESKTOP-QIQKRBE
+Process     : java.exe <41676>
+Thread      : xmit.user 42668
+Internals   : 6.9.181127OSS/42c7cafa/42c7cafa/ddsi2/ddsi_udp.c/147/0/1547568236.886733900/0
